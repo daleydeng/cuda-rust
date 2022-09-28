@@ -1,0 +1,8 @@
+[package]
+name = "cudart-sys"
+version = "0.1.0"
+edition = "2021"
+
+[build-dependencies]
+anyhow = "1.0"
+bindgen = "0.60"

@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "cuda-rs",
+    "cuda-sys",
+    "cudart-sys",
+]
+
